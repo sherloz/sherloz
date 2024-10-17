@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Onegolive Services like Sage X3 developer**
+- 🔭 I’m currently working on **Onegolive Services as Sage X3 developer**
 - 🌱 I’m currently learning **AI & Big data speciality**
 - 💬 Ask me about ...
   + Sage X3 ERP
